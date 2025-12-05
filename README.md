@@ -1,3 +1,11 @@
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=Lacerdasx&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/Lacerdasx)
-
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerdasx&layout=compact&theme=dracula)](https://github.com/Lacerdasx)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true" />
+</picture>
