@@ -1,3 +1,8 @@
 ## Hi there 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&theme=dracula&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Lacerdasx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lacerdasx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerdasx&layout=compact&theme=dracula"/>
+  </a>
+</div>
